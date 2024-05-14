@@ -1,0 +1,22 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #fff;
+}
+
+.coming-soon-container {
+  text-align: center;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.logo-container {
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 30px;
+}
